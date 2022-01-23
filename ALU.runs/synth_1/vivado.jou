@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Dec  4 20:46:05 2021
+# Process ID: 17760
+# Current directory: C:/vivado/ALU/ALU.runs/synth_1
+# Command line: vivado.exe -log alu_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source alu_top.tcl
+# Log file: C:/vivado/ALU/ALU.runs/synth_1/alu_top.vds
+# Journal file: C:/vivado/ALU/ALU.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source alu_top.tcl -notrace
